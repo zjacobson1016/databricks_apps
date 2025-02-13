@@ -1,0 +1,8 @@
+dash
+numpy
+plotly
+scikit-image
+pandas
+dash_bootstrap_components
+torch
+torchvision
